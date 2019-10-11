@@ -22,9 +22,11 @@ body {
 
 .navbar {
     background: #ffffff;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     border-bottom: 3px solid #dddddd;
     margin-bottom: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .nav-link {
@@ -38,6 +40,7 @@ body {
 
 .main-content {
     border: 1px solid #dddddd;
+
 }
 
 h1 {
@@ -48,4 +51,30 @@ h1 {
     border-bottom: 3px solid #dddddd;
     font-weight: bold;
     margin-bottom: 20px;
+}
+
+.footer {
+    text-align: center;
+    background: #666666;
+    color: #ffffff;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 80px;
+}
+
+#content {
+    margin-bottom: 200px;
+}
+
+h2 {
+    font-size: 16px;
+    color: #ffffff;
+    background: #4aaaa5;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 15px;
+    width: 204px;
+    margin-bottom: 20px;
+    
+    
+
 }
