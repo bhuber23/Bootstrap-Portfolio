@@ -1,8 +1,12 @@
 # Bootstrap-Portfolio
----------------
 This project contains my portfolio re-designed using Bootstrap.  
 
-The technologies used were:
+## Technologies/frameworks used:
 - HTML
 - CSS
 - Bootstrap framework
+
+## License
+MIT License
+
+Copyright (c) 2019 Brittany Huber
